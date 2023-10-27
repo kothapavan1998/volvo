@@ -1,6 +1,4 @@
-# Function for nth Fibonacci number 
-
-def Fibonacci(n): 
+Fibonacci(n): 
 	if n<0: 
 		print("Incorrect input") 
 	# First Fibonacci number is 0 
